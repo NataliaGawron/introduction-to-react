@@ -1,4 +1,4 @@
-# Basic form with siple validation in Yup - [Deployed App](https://basic-form-validation-with-yup.netlify.app/)
+# Basic form with simple validation in Yup - [Deployed App](https://basic-form-validation-with-yup.netlify.app/)
 
 # Getting Started with Create React App
 
